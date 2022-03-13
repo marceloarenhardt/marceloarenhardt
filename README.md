@@ -1,3 +1,1 @@
-Olá!
-
-👨‍💻 Atualmente estou estudando JavaScript e almejo em um futuro próximo me tornar um programador.
+Olá! Eu sou o Marcelo Arenhardt, estudante de programação e fã de tecnologia.
