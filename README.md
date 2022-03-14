@@ -1,1 +1,2 @@
-Olá! Eu sou o Marcelo Arenhardt, estudante de programação e fã de tecnologia.
+👨‍💻Desenvolvedor front-end, atualmente estudando JavaScript, NODE.js, HTML5 e CSS3.
+💻Aficionado por tecnologia.
