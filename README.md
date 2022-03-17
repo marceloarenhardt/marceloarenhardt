@@ -1,1 +1,1 @@
-👨‍💻Desenvolvedor front-end, atualmente aprendendo JavaScript, HTML5 e CSS3.
+👨‍💻Desenvolvedor front-end, atualmente aprendendo HTML5, CSS3 e JavaScript.
